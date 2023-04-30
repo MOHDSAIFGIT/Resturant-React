@@ -19,6 +19,8 @@ const Resturant = () => {
 
                 <span className='card-tag' subtle>Order Now</span>
             </div>
+
+            
         </div>
 
         {/* end div */}
